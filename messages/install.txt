@@ -1,0 +1,7 @@
+
+Thank you for installing sublime-c99!
+
+Note: The current version is an early release with only minimal support
+* Pull requests welcome!
+* Report issues here: https://github.com/noct/sublime-c99/issues
+* Or just hit me up on twitter: @noct
