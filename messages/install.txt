@@ -1,6 +1,18 @@
 
 Thank you for installing sublime-c99!
 
+
+Installation
+============
+To use this package as the default, you must disable the built-in C++ package.
+
+Under Preferences->Settings - User, add "C++" to the "ignored_packages" list:
+	"ignored_packages":
+	[
+		"C++"
+	],
+
+
 Note: The current version is an early release with only minimal support
 * Pull requests welcome!
 * Report issues here: https://github.com/noct/sublime-c99/issues
